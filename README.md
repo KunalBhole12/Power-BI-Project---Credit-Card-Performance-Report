@@ -8,8 +8,8 @@ The goal was to analyze customer demographics and transaction data using Power B
 
 # 📊 𝐊𝐞𝐲 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀:
 - 𝐂𝐚𝐫𝐝 𝐂𝐚𝐭𝐞𝐠𝐨𝐫𝐲: Blue cardholders contributed the highest revenue ($4.62M), making it the most profitable card category.
-- 𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩: Middle-aged customers (35–45) were identified as the highest contributors to revenue, with significant spending across various categories.
-- 𝐉𝐨𝐛 𝐓𝐲𝐩𝐞: Self-employed and businessmen were the top revenue generators among all job types, indicating high engagement and spending potential within these segments.
+- 𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩: Customers having age between (40–50) were identified as the highest contributors to revenue, with significant spending across various categories.
+- 𝐉𝐨𝐛 𝐓𝐲𝐩𝐞: Businessmen and White collar were the top revenue generators among all job types, indicating high engagement and spending potential within these segments.
 - 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐋𝐞𝐯𝐞𝐥: Graduates accounted for the highest revenue ($22M), suggesting a strong correlation between higher education levels and spending capacity.
 - 𝐄𝐱𝐩𝐞𝐧𝐝𝐢𝐭𝐮𝐫𝐞 𝐓𝐲𝐩𝐞: Bills and entertainment were the leading expenditure types, together contributing a significant portion of the total revenue.
 
