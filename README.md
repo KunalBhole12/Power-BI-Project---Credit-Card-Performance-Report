@@ -14,7 +14,7 @@ The goal was to analyze customer demographics and transaction data using Power B
 - 𝐄𝐱𝐩𝐞𝐧𝐝𝐢𝐭𝐮𝐫𝐞 𝐓𝐲𝐩𝐞: Bills and entertainment were the leading expenditure types, together contributing a significant portion of the total revenue.
 
 # 💡 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻:
-- ✅ Targeted Marketing Campaigns: Focus on middle-aged and self-employed customers to maximize revenue.
+- ✅ Targeted Marketing Campaigns: Focus on middle-aged and businessmen customers to maximize revenue.
 - ✅ Strategic Partnerships: Collaborate with bill payment and entertainment platforms to boost card usage.
 - ✅ Competitive Interest Rates and Fees: Offer attractive rates to high-spending segments like businessmen and graduates.
 - ✅ Flexible Credit Limits: Adjust credit limits based on customer spending behavior and revenue potential.
